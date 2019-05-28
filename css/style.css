@@ -1,0 +1,51 @@
+body{
+	background-color: #f7f4f4;
+    padding-top: 60px;
+}
+#height{
+	height: 180px;
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+#loginform{
+	text-align: center;
+	direction: ltr;
+	width: 300px;
+    height: 300px;
+    background-color: #e3e1e1;
+    margin: 100px auto;
+    padding: 30px;
+    text-align: center;
+    border: 2px solid #bbe6f9;
+    border-radius: 10px;
+}
+input{
+    width: 200px;
+    height: 30px;
+    padding-left: 10px;
+    border-radius: 6px;
+    border-color: #90caf9;
+}
+#signupform{
+	text-align: center;
+	direction: ltr;
+	width: 300px;
+    height: 360px;
+    background-color: #e3e1e1;
+    margin: 70px auto;
+    padding: 35px;
+    text-align: center;
+    border: 2px solid #bbe6f9;
+    border-radius: 10px;
+}
+#h{
+	margin-top: 0;
+}
+hr{
+	background-color: #268;
+	height: 1px;
+}
+.ltr{
+	text-align: center;
+	direction: ltr;
+}
